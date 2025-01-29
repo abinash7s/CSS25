@@ -76,7 +76,7 @@ if menu == "Researcher Profile":
     color = st.color_picker("Pick A Color", "#00f900")
     st.write("The current color is", color)
 
-    # render_image("C:/Users/Maverick/Downloads/IMG_0114.JPG")
+    render_image("https://github.com/abinash7s/CSS25/blob/main/IMG_0114.JPG")
       
 
 elif menu == "Publications":
